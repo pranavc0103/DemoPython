@@ -1,0 +1,12 @@
+.banner {
+   background-color: Brown;
+   width:100%;
+   height:100px;
+   }
+
+.banner-text{
+top:5%;
+left:48%;
+position:absolute;
+transform:transform;
+}
